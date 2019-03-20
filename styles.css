@@ -1,0 +1,71 @@
+
+  body{
+   background-image: url("https://media0.giphy.com/media/WykGzFl4MHCes/giphy.gif?cid=3640f6095c7fd0726d46504c451e0e8b");
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+   background-size: cover;
+}
+
+
+.box{
+    margin: 0 auto;
+    text-align:center;
+    background-repeat: no-repeat;
+    background-size: 600px 250px;
+   
+   }
+ input{
+     padding:14px  100px;
+     font-size:15px;
+     font-family: 'Amatic SC', cursive;
+     font-size:20px;
+     text-align:center;
+     }
+     
+p {
+    font-size:25px;
+    font-family: 'Pacifico', cursive;}
+.Ed{
+   width: 400px;
+    height: auto;
+  
+}
+.Edd{
+   width: 400px;
+    height: auto;
+  
+}
+.Eddy{
+   width: 400px;
+    height: auto; 
+}
+
+.Nazz{
+   width: 400px;
+    height: auto;
+ 
+}
+.Ralph{
+   width: 400px;
+    height: auto;
+    
+}
+
+.May{
+    width: 400px;
+    height: auto;
+}
+
+.Lee{
+    width: 400px;
+    height: auto;}
+    
+.Marie{
+    width: 400px;
+    height: auto;}
+    
+.result{
+    width:100%;
+    height: auto;
+    text-align:center;
+    margin:0 auto;   }
